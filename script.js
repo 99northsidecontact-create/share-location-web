@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyuIybCc2HZAi5nYIckkbiAZulKa000tTv9SadtrE_jyg11A2rY4ZPz4zgDiAm06ek/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyUe3-PWU8Yz2Udh3gSZaFh4qvgx2WYHuJyzOKaX8DBfYGmzxNjhs6K8c9Elu-YuNM/exec";
 
 function shareLocation() {
   const result = document.getElementById("result");
